@@ -4,3 +4,5 @@
  Recommend to use Google-Colab
 
 Use library $pip install autots
+
+Change the array of names of bitcoin as your choice and take name from yahoo finance website
