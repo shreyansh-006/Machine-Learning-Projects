@@ -7,4 +7,4 @@ Libraries needed:
 $pip install autots
 $pip install yfinance
 
-Change the array of names of bitcoin as your choice and take name from yahoo finance website
+Change the array of names of cryptocurrencies as your choice and take name from yahoo finance website
